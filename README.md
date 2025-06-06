@@ -1,8 +1,11 @@
-# ⚡ Crypt - Web3 Ethereum Transaction App
+# Krypto Web3 DApp
 
-Crypt is a full-stack decentralized Web 3.0 blockchain app that allows users to connect their MetaMask wallet, send Ethereum transactions with a custom message and GIF, and view a beautiful history of past transactions — all stored on the blockchain.
+[![Deploy with Vercel](https://vercel.com/button)](https://krypto-dapp-xyz123.vercel.app)
+Live Demo: [https://krypto-dapp-xyz123.vercel.app](https://krypto-dapp-xyz123.vercel.app)
 
-![Crypt Banner](link-to-your-screenshot.png)
+## Project Overview
+Krypt is a full-stack decentralized Web 3.0 blockchain app that allows users to connect their MetaMask wallet, send Ethereum transactions with a custom message and GIF, and view a beautiful history of past transactions — all stored on the blockchain.
+
 
 ## 🚀 Features
 
@@ -19,11 +22,6 @@ Crypt is a full-stack decentralized Web 3.0 blockchain app that allows users to 
 - Blockchain: Solidity, Hardhat, Ethers.js
 - Web3 Wallet: MetaMask
 - APIs: Giphy API (for GIFs)
-
-## 📂 Folder Structure
-crypt-web3-app/
-├── client/ # Frontend React App
-└── smart_contract/ # Solidity Smart Contract (Hardhat)
 
 
 
