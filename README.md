@@ -1,7 +1,7 @@
 # Krypto Web3 DApp
 
-[![Deploy with Vercel](https://vercel.com/button)](https://krypto-dapp-xyz123.vercel.app)
-Live Demo: [https://krypto-dapp-xyz123.vercel.app](https://krypto-dapp-xyz123.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://krypt-tawny.vercel.app/)
+Live Demo: [https://krypt-tawny.vercel.app/](https://krypt-tawny.vercel.app/)
 
 ## Project Overview
 Krypt is a full-stack decentralized Web 3.0 blockchain app that allows users to connect their MetaMask wallet, send Ethereum transactions with a custom message and GIF, and view a beautiful history of past transactions — all stored on the blockchain.
